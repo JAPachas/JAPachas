@@ -22,16 +22,16 @@ Bienvenido a mi perfil de GitHub **:octocat:**
 ![Visual Basic](https://img.shields.io/badge/-Visual_Basic-9452C8?style=flat&logo=visual-basic&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## Librerias  
+## Librerias  📚
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 
-## Base de Datos  
+## Base de Datos  🗄️
 
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
-## Herramientas  
+## Herramientas  🛠️  
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
