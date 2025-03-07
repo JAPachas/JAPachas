@@ -1,19 +1,19 @@
-# Hola, soy Jhon Pachas 👋
+# Hola, soy Jhon Pachas Napa  👋
 
 Bienvenido a mi perfil de GitHub **:octocat:**  
 
-## Sobre mí 👨‍💻
+## Sobre mí  👨‍💻
 
 :computer: **Ingeniero de Sistemas**  
 :round_pushpin: vivo en **Lima, Perú**  
 :briefcase: trabajo como **Analista Desarrollador**
 
-## Contacto 🤝  
+## Contacto  🤝  
 
 **e-mail**: japachas99@gmail.com   
 **LinkedIn**: [Tu LinkedIn](https://www.linkedin.com/in/jhon-alexander-pachas-napa)
 
-## Lenguajes 💻  
+## Lenguajes  💻  
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -40,6 +40,6 @@ Bienvenido a mi perfil de GitHub **:octocat:**
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?style=flat&logo=windows&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-## Estadísticas de GitHub 📈  
+## Estadísticas de GitHub  📈  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JAPachas&show_icons=true&hide_title=true&count_private=true&hide=prs)
