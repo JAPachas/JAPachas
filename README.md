@@ -5,8 +5,8 @@ Bienvenido a mi perfil de GitHub **:octocat:**
 ## Sobre mí 👨‍💻
 
 :computer: **Ingeniero de Sistemas**  
-:round_pushpin: Actualmente vivo en **Lima, Perú**  
-:briefcase: Actualmente trabajo como **Analista Desarrollador**
+:round_pushpin: vivo en **Lima, Perú**  
+:briefcase: trabajo como **Analista Desarrollador**
 
 ## Contacto 🤝  
 
