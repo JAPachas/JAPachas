@@ -42,5 +42,5 @@ Bienvenido a mi perfil de GitHub **:octocat:**
 
 ## Estadísticas de GitHub  📈  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JAPachas&show_icons=true&hide_title=true&count_private=true&hide=prs&random=<timestamp>)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JAPachas&show_icons=true&hide_title=true&count_private=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAPachas&layout=compact&langs_count=6&theme=radical)  
