@@ -10,7 +10,7 @@ Bienvenido a mi perfil de GitHub **:octocat:**
 
 ## Contacto  🤝  
 
-**e-mail**: japachas99@gmail.com   
+**e-mail**: <japachas99@gmail.com>  
 **LinkedIn**: [Mi LinkedIn](https://www.linkedin.com/in/jhon-alexander-pachas-napa)
 
 ## Lenguajes  💻  
